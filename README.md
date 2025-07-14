@@ -56,6 +56,6 @@
 <div align="left">
   <img height="150" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"  />
 </div>
-<em>yeah, thats me</em>
+<em>yeah, that's me</em>
 
 ###
